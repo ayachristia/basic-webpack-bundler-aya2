@@ -1,0 +1,7 @@
+.card {
+    display: flex;
+    &_ferie {
+        border: 3px solid purple;
+        border-radius: 7px;
+    }
+}
